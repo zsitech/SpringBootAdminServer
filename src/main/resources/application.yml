@@ -8,7 +8,7 @@ spring:
   boot:
     admin:
       ui:
-        title: 'Spring Boot Admin for me'
+        title: 'SBA for me'
     
     
 
